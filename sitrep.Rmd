@@ -1,3 +1,4 @@
 Contexto de reporte situacional
 
 Comparar tasa de ataque en diferentes grupos
+Usar paquete (f) para leer informacion espacial
